@@ -1,7 +1,4 @@
 # ToxicityClassifier
-# README.md for Toxicity Classification Repository
-
-## Toxicity Classification Project
 
 This repository contains code and resources for building a robust toxicity classification system. The project explores the use of generative and discriminative models and combines them to enhance classification accuracy.
 
